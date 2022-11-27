@@ -1,0 +1,13 @@
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/controller/ProjectController.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/repository/ProjectRepository.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/repository/PostRepository.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/table/Post.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/BoccarussoApplication.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/repository/TagRepository.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/repository/AppliedTagRepository.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/controller/AppliedTagController.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/controller/PostController.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/controller/TagController.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/table/Tag.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/table/Project.java
+/home/gabriele/Public/projects/boccarusso/src/main/java/boccarusso/table/AppliedTag.java

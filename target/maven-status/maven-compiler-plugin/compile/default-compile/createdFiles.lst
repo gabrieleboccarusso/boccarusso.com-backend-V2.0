@@ -1,0 +1,14 @@
+boccarusso/controller/ProjectController.class
+boccarusso/BoccarussoApplication.class
+boccarusso/table/AppliedTag.class
+boccarusso/controller/AppliedTagController.class
+boccarusso/controller/TagController.class
+boccarusso/repository/ProjectRepository.class
+boccarusso/table/Project.class
+boccarusso/table/Tag.class
+boccarusso/controller/PostController.class
+boccarusso/BoccarussoApplication$1.class
+boccarusso/repository/TagRepository.class
+boccarusso/table/Post.class
+boccarusso/repository/PostRepository.class
+boccarusso/repository/AppliedTagRepository.class
