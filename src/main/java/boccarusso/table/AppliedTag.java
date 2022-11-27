@@ -1,9 +1,9 @@
 package boccarusso.table;
 
 import jakarta.persistence.Id;
+import jakarta.persistence.Entity;
 
-@jakarta.persistence.Entity
-
+@Entity
 public class AppliedTag {
  @Id
  private Integer id;
