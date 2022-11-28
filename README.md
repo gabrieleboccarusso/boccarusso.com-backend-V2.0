@@ -36,3 +36,14 @@ CMD ["java", "-jar", "boccarusso-2.0.0.jar"]
 
 ```
 
+Once created the `Dockerfile` just two commands are needed to create the image:
+
+```
+docker build -t boccarusso .
+```
+
+and then run it:
+
+```
+docker run -it -p 8080:8080
+```
