@@ -19,7 +19,7 @@ public class TagController {
   this.repository = repository;
  }
  
- @GetMapping("/")
+ @GetMapping
  Iterable<Tag> all() {
   return repository.findAll();
  }

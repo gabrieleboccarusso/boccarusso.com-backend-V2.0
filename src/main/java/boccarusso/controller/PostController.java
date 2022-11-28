@@ -22,7 +22,7 @@ public class PostController {
   this.repository = repository;
  }
  
- @GetMapping("/")
+ @GetMapping
  Iterable<Post> all() {
   return repository.findAll();
  }

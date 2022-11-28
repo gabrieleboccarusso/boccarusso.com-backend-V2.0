@@ -17,12 +17,12 @@ public class ProjectController {
   this.repository = repository;
  }
  
- @GetMapping("/")
+ @GetMapping
  Iterable<Project> all() {
   return repository.findAll();
  }
  
- @GetMapping("projectsDescending")
+ @GetMapping("/descending")
  Iterable<Project> allDesc() {
   return repository.findAllByOrderByIdDesc();
  }

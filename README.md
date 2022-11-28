@@ -45,5 +45,5 @@ docker build -t boccarusso .
 and then run it:
 
 ```
-docker run -it -p 8080:8080
+docker run -it -p 8080:8080 boccarusso
 ```
