@@ -1,6 +1,8 @@
-# Backend for boccarusso.com
+# Backend for boccarusso.com V2.0
 
-# Creating the `jar` file
+THis project is the backend of the version 2.0 of my website [boccarusso.com](https://boccarusso.com/) and was done the minimum feasible knowledge of Spring Boot. Full of anti-pattern, this is my first attempt at creating an application with java.
+
+## Creating the `jar` file
 To check if the overall software run the following command in the command line for then checking if it works using the browser
 
 ```
